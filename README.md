@@ -1,4 +1,3 @@
 # demo
-gitproject
-shreya
-hi
+This is a demo gitproject to learn how git (version control) and github works
+
